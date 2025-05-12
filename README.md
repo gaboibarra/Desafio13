@@ -63,9 +63,9 @@ https://localhost:8080
 ```
 📝 Crear una aplicación desde el dashboard
 ```
-Hacer clic en New App.
+1. Hacer clic en New App.
 
-Completar el formulario con los siguientes datos:
+2. Completar el formulario con los siguientes datos:
 
 Application Name: educacionit-app
 
@@ -83,7 +83,7 @@ Cluster: https://kubernetes.default.svc
 
 Namespace: default
 
-Hacer clic en Create para guardar.
+3. Hacer clic en Create para guardar.
 ```
 
 
