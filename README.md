@@ -4,6 +4,18 @@
 
 Este proyecto consiste en desplegar una aplicación usando ArgoCD en un entorno local con Minikube. El objetivo es integrar una aplicación desde un repositorio Git mediante ArgoCD y automatizar el despliegue en un clúster Kubernetes.
 
+💻 Tecnologías Utilizadas
+
+🐳 Minikube: Herramienta para ejecutar Kubernetes localmente.
+
+📦 Kubectl: Herramienta de línea de comandos para interactuar con clústeres de Kubernetes.
+
+🌐 ArgoCD: Plataforma de GitOps para despliegues continuos en Kubernetes.
+
+🗃️ GitHub: Almacenamiento de código fuente y versionado.
+
+💾 Docker: Contenerización de aplicaciones.
+
 ## 🛠️ Requisitos
 
 Minikube instalado 🟢
