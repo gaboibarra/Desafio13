@@ -18,3 +18,10 @@ GitHub para almacenar el repositorio
 En mi caso ya lo tenia instalado en mi maquina local 
 
 ![image](https://github.com/user-attachments/assets/74ec47eb-1f79-4823-9e1b-d781862c39bc)
+
+## 🧰 Instalación de Kubectl
+
+En mi caso ya lo tenia instalado en mi maquina local 
+
+![image](https://github.com/user-attachments/assets/b2188c3e-b61b-431b-bd0b-0d8606818412)
+
