@@ -47,3 +47,22 @@ En mi caso ya lo tenia instalado en mi maquina local
 
 🌐 Exponer el servicio ArgoCD Server
 
+![image](https://github.com/user-attachments/assets/cc705f7d-db64-4997-89d0-ca6df256d0a3)
+
+🔑 Obtener la contraseña inicial
+
+![image](https://github.com/user-attachments/assets/5a1b2832-8645-4b87-8e72-22097f61078b)
+
+# 🌱 Conectar ArgoCD con un Repositorio Git
+
+💻 Acceder al dashboard
+Abrir el navegador e ir a:
+
+```
+https://localhost:8080
+```
+
+
+
+
+
