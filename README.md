@@ -25,3 +25,8 @@ En mi caso ya lo tenia instalado en mi maquina local
 
 ![image](https://github.com/user-attachments/assets/b2188c3e-b61b-431b-bd0b-0d8606818412)
 
+## 🚦 Despliegue de ArgoCD en Minikube
+
+1️⃣ Iniciar Minikube
+
+![image](https://github.com/user-attachments/assets/2b842d22-8b42-426f-9590-fc7e6c54fbe2)
