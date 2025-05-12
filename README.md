@@ -13,3 +13,8 @@ Kubectl instalado 🟢
 Acceso administrativo para ejecutar comandos
 
 GitHub para almacenar el repositorio
+
+## ⚙️ Instalación de Minikube
+En mi caso ya lo tenia instalado en mi maquina local 
+
+![image](https://github.com/user-attachments/assets/74ec47eb-1f79-4823-9e1b-d781862c39bc)
