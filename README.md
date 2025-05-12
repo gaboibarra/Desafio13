@@ -67,21 +67,21 @@ https://localhost:8080
 
 2. Completar el formulario con los siguientes datos:
 
-Application Name: educacionit-app
+    Application Name: educacionit-app
 
-Project: default
+    Project: default
 
-Sync Policy: Automatic
+    Sync Policy: Automatic
 
-Repository URL: https://github.com/gaboibarra/Desafio13.git
+    Repository URL: https://github.com/gaboibarra/Desafio13.git
 
-Revision: HEAD
+    Revision: HEAD
 
-Path: .k8s
+    Path: .k8s
 
-Cluster: https://kubernetes.default.svc
+    Cluster: https://kubernetes.default.svc
 
-Namespace: default
+    Namespace: default
 
 3. Hacer clic en Create para guardar.
 ```
