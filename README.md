@@ -79,7 +79,7 @@ https://localhost:8080
 
 2. Completar el formulario con los siguientes datos:
 
-    Application Name: educacionit-app
+    Application Name: educacionit
 
     Project: default
 
