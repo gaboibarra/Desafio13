@@ -87,14 +87,17 @@ https://localhost:8080
 ```
 
 1️⃣ Dashboard de ArgoCD
+
 ![image](https://github.com/user-attachments/assets/6d03420e-d2ae-4d9d-a1b9-7f50b4c26b59)
 
 2️⃣ Creacion de la app
+
 ![image](https://github.com/user-attachments/assets/40cb5bcd-54d5-4fbf-b33b-132f25e1ce4d)
 
 ![image](https://github.com/user-attachments/assets/291efb65-44d9-48ce-803b-6f13cafe0468)
 
 3️⃣ App desplegada
+
 ![image](https://github.com/user-attachments/assets/17edfd40-2592-4c9f-adae-916f43a0ff53)
 
 ## 📝 Autor
