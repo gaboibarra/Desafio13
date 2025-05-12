@@ -30,3 +30,20 @@ En mi caso ya lo tenia instalado en mi maquina local
 1️⃣ Iniciar Minikube
 
 ![image](https://github.com/user-attachments/assets/2b842d22-8b42-426f-9590-fc7e6c54fbe2)
+
+2️⃣ Crear el namespace para ArgoCD
+
+![image](https://github.com/user-attachments/assets/2fce0015-cd04-4eba-84e9-c68266521e76)
+
+3️⃣ Desplegar ArgoCD usando los manifiestos oficiales
+
+![image](https://github.com/user-attachments/assets/ee599002-299d-4fd4-a5ad-5b3e92dcc87e)
+
+4️⃣ Verificar el despliegue
+
+![image](https://github.com/user-attachments/assets/2c45ace5-2c6f-4095-8d4c-4686c2bc3cce)
+
+# 🔧 Configuración de ArgoCD
+
+🌐 Exponer el servicio ArgoCD Server
+
