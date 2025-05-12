@@ -61,8 +61,30 @@ Abrir el navegador e ir a:
 ```
 https://localhost:8080
 ```
+📝 Crear una aplicación desde el dashboard
+```
+Hacer clic en New App.
 
+Completar el formulario con los siguientes datos:
 
+Application Name: educacionit-app
+
+Project: default
+
+Sync Policy: Automatic
+
+Repository URL: https://github.com/gaboibarra/Desafio13.git
+
+Revision: HEAD
+
+Path: .k8s
+
+Cluster: https://kubernetes.default.svc
+
+Namespace: default
+
+Hacer clic en Create para guardar.
+```
 
 
 
